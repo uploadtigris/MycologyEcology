@@ -1,5 +1,7 @@
 # The Mycology Ecology Project 🌱🍄
 
+<img src="Images/presetbase-lightroom-presets-QN6NkYi3CKs-unsplash.jpg" width="800">
+
 ## Overview
 Welcome to **The Mycology Ecology Project**, a data visualization and analysis initiative focused on exploring the relationship between fungal biodiversity and environmental factors, with an emphasis on the impact of climate change. This project combines ecological research, open-source data, and advanced visualization techniques to uncover insights into the fascinating world of fungi and their role in global ecosystems.
 
