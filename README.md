@@ -122,10 +122,10 @@ By understanding these dynamics through data-driven analysis, we can better advo
 ---
 
 ## Tools & Technologies
-- **Programming Languages**: Python (Pandas, Matplotlib/Seaborn), R (ggplot2).
-- **Data Visualization Tools**: Plotly, Tableau (optional).
+- **Programming Languages**: Python (Pandas, Matplotlib/Seaborn, NumPy).
+- **Data Visualization Tools**: Plotly.
 - **Citation Management**: Zotero for organizing references.
-- **GIS Tools**: QGIS for geographic mapping of fungal distributions.
+- **GIS Tools**: ArcGIS for geographic mapping of fungal distributions.
 
 ---
 
